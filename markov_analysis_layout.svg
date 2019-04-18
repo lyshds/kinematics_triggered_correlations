@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 765.00001 990.00002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="markov_analysis_layout.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="490.71429"
+     inkscape:cy="401.00618"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1321"
+     inkscape:window-height="760"
+     inkscape:window-x="2036"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-62.36215)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="348.41174"
+       x="379.46243"
+       height="337.73618"
+       width="337.73618"
+       id="rect4136"
+       style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="transition_mtrx" />
+      <figurefirst:spinespec
+         bottom=""
+         figurefirst:spinelist="" />
+    </rect>
+    <rect
+       y="348.36957"
+       x="142.50671"
+       height="337.77841"
+       width="225"
+       id="rect4136-2"
+       style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="state_labels_left" />
+      <figurefirst:spinespec
+         figurefirst:spinelist=" " />
+    </rect>
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-717.24078"
+       x="111.77887"
+       height="337.77841"
+       width="225"
+       id="rect4136-2-8"
+       style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="state_labels_top" />
+      <figurefirst:spinespec
+         figurefirst:spinelist=" " />
+    </rect>
+    <g
+       transform="matrix(1,0,0,0.59180163,0,702.38184)"
+       id="g4385">
+      <rect
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4136-2-8-2"
+         width="66.718529"
+         height="686.09235"
+         x="194.5114"
+         y="-724.75537"
+         transform="matrix(0,1,-1,0,0,0)">
+        <figurefirst:axis
+           figurefirst:name="right" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left,bottom" />
+      </rect>
+      <rect
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4136-2-8-2-8"
+         width="66.718529"
+         height="686.09235"
+         x="94.027397"
+         y="-724.75537"
+         transform="matrix(0,1,-1,0,0,0)">
+        <figurefirst:axis
+           figurefirst:name="left" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left" />
+      </rect>
+      <figurefirst:group
+         figurefirst:name="observed_states" />
+    </g>
+    <g
+       transform="matrix(1,0,0,0.59180163,0,424.18044)"
+       id="g4413">
+      <rect
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4136-2-8-2-6"
+         width="66.718529"
+         height="686.09235"
+         x="933.79614"
+         y="-724.75537"
+         transform="matrix(0,1,-1,0,0,0)">
+        <figurefirst:axis
+           figurefirst:name="right" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left,bottom" />
+      </rect>
+      <rect
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3, 3;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4136-2-8-2-8-2"
+         width="66.718529"
+         height="686.09235"
+         x="833.31213"
+         y="-724.75537"
+         transform="matrix(0,1,-1,0,0,0)">
+        <figurefirst:axis
+           figurefirst:name="left" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left" />
+      </rect>
+      <figurefirst:group
+         figurefirst:name="simulated_states" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.2776432px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="114.66081"
+       y="903.50769"
+       id="text4686"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4688"
+         x="114.66081"
+         y="903.50769">simulated</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:29.2776432px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="106.355"
+       y="743.50769"
+       id="text4686-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4688-4"
+         x="106.355"
+         y="743.50769">recorded</tspan></text>
+  </g>
+</svg>

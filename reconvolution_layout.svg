@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448 1052.3622"
+   id="svg6797"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="reconvolution_layout.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.46359804"
+     inkscape:cx="528.67869"
+     inkscape:cy="433.51022"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1535"
+     inkscape:window-height="876"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs6799" />
+  <metadata
+     id="metadata6802">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-3.464567e-6)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="96.210945"
+       y="30.702902"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="96.210945"
+         y="30.702902"
+         id="tspan5172-7-7-0-3-9-1-4">i1 trigger</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="43.990616"
+       y="382.13159"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="43.990616"
+         y="382.13159"
+         id="tspan5172-7-7-0-3-9-1-4-8">b2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="43.899063"
+       y="426.13293"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="43.899063"
+         y="426.13293"
+         id="tspan5172-7-7-0-3-9-1-4-8-7">b3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.930557"
+       y="522.13586"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="44.930557"
+         y="522.13586"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4">iii1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="43.203262"
+       y="566.13721"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="43.203262"
+         y="566.13721"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4-6">iii3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.49999994px;line-height:125%;font-family:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Arial, Normal';font-stretch:normal;font-variant:normal;"
+       x="42.147354"
+       y="610.13855"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2-0-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="42.147354"
+         y="610.13855"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4-6-9">hg1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.45668"
+       y="652.13983"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2-0-2-9"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="40.45668"
+         y="652.13983"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4-6-9-0">hg4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.71376"
+       y="472.13434"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-6"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="47.71376"
+         y="472.13434"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-40">i1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="43.990616"
+       y="731.57971"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-0"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="43.990616"
+         y="731.57971"
+         id="tspan5172-7-7-0-3-9-1-4-8-4">b2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="43.899063"
+       y="775.58105"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-62"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="43.899063"
+         y="775.58105"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-6">b3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="44.930557"
+       y="871.58398"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="44.930557"
+         y="871.58398"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4-5">iii1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="43.203262"
+       y="915.58533"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2-0-6"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="43.203262"
+         y="915.58533"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4-6-98">iii3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.49999994px;line-height:125%;font-family:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;-inkscape-font-specification:'Arial, Normal';font-stretch:normal;font-variant:normal;"
+       x="42.147354"
+       y="959.58667"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2-0-2-7"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="42.147354"
+         y="959.58667"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4-6-9-2">hg1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="40.45668"
+       y="1001.588"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-2-0-2-9-8"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="40.45668"
+         y="1001.588"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-4-6-9-0-2">hg4</tspan></text>
+    <g
+       id="g4367">
+      <rect
+         y="61.090126"
+         x="72.58741"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="raster" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="" />
+      </rect>
+      <rect
+         y="207.04214"
+         x="72.58741"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572-5"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="kine" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left" />
+        <figurefirst:mplmethods
+           figurefirst:set_ybound="40,60" />
+      </rect>
+      <g
+         transform="translate(28,-308.45687)"
+         id="g6352">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="left" />
+      </g>
+      <g
+         transform="translate(28,40.983778)"
+         id="g6352-9">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-9"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-60"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5-2"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8-7"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8-1"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left,bottom" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6-3"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="right" />
+      </g>
+      <figurefirst:group
+         figurefirst:name="i1_on" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="47.71376"
+       y="821.58252"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-2-4-6-2"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="47.71376"
+         y="821.58252"
+         id="tspan5172-7-7-0-3-9-1-4-8-7-40-1">i1</tspan></text>
+    <g
+       id="g4387">
+      <rect
+         y="61.09013"
+         x="228.5874"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572-2"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="raster" />
+        <figurefirst:spinespec
+           figurefirst:spinelist=""
+           figurefirst:spinespec="" />
+      </rect>
+      <rect
+         y="207.04214"
+         x="228.5874"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572-5-93"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="kine" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="" />
+        <figurefirst:mplmethods
+           figurefirst:set_ybound="40,60" />
+      </rect>
+      <g
+         transform="translate(184,-308.45686)"
+         id="g6352-1">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-94"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-7"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5-8"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8-4"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-5"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8-0"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6-36"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="left" />
+      </g>
+      <g
+         transform="translate(184,40.98378)"
+         id="g6352-9-1">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-9-0"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-60-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5-2-3"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8-7-2"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-6-0"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8-1-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left,bottom" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6-3-1"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="right" />
+      </g>
+      <figurefirst:group
+         figurefirst:name="i1_off" />
+    </g>
+    <g
+       id="g4407">
+      <rect
+         y="61.09013"
+         x="420.5874"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572-0"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="raster" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="" />
+      </rect>
+      <rect
+         y="207.04214"
+         x="420.5874"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572-5-8"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="kine" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left" />
+        <figurefirst:mplmethods
+           figurefirst:set_ybound="40,60" />
+      </rect>
+      <g
+         transform="translate(376,-308.45686)"
+         id="g6352-5">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-0"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-64"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8-2"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-58"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6-2"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="left" />
+      </g>
+      <g
+         transform="translate(376,40.98378)"
+         id="g6352-9-8">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-9-4"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-60-7"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5-2-2"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8-7-4"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-6-06"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8-1-2"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left,bottom" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6-3-9"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="right" />
+      </g>
+      <figurefirst:group
+         figurefirst:name="iii3_on" />
+    </g>
+    <g
+       id="g4427">
+      <rect
+         y="61.090134"
+         x="576.5874"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572-2-9"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="raster" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="" />
+      </rect>
+      <rect
+         y="207.04214"
+         x="576.5874"
+         height="115.04146"
+         width="139.76553"
+         id="rect6572-5-93-0"
+         style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:2.99999999, 2.99999999;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="kine" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="" />
+        <figurefirst:mplmethods
+           figurefirst:set_ybound="40,60" />
+      </rect>
+      <g
+         transform="translate(532,-308.45685)"
+         id="g6352-1-8">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-94-1"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-7-3"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5-8-1"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8-4-1"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-5-0"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8-0-3"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6-36-4"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="left" />
+      </g>
+      <g
+         transform="translate(532,40.983782)"
+         id="g6352-9-1-0">
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-9-0-3"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="661.45099">
+          <figurefirst:axis
+             figurefirst:name="b2" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-60-6-9"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="707.33386">
+          <figurefirst:axis
+             figurefirst:name="b3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-5-2-3-1"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="799.09961">
+          <figurefirst:axis
+             figurefirst:name="iii1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-8-7-2-9"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="844.98248">
+          <figurefirst:axis
+             figurefirst:name="iii3" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-6-0-6"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="890.86536">
+          <figurefirst:axis
+             figurefirst:name="hg1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-6-8-1-6-9"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="936.74823">
+          <figurefirst:axis
+             figurefirst:name="hg4" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left,bottom" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <rect
+           style="opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:4.33832073;stroke-miterlimit:1;stroke-dasharray:4.33832066, 4.33832066;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect6572-5-9-2-6-3-1-3"
+           width="139.76553"
+           height="37.898602"
+           x="44.58741"
+           y="753.21674">
+          <figurefirst:axis
+             figurefirst:name="i1" />
+          <figurefirst:spinespec
+             figurefirst:spinelist="left" />
+          <figurefirst:mplmethods
+             figurefirst:set_ybound="0,1" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticks="[0,1]" />
+          <figurefirst:mplmethods
+             figurefirst:set_yticklabels="['','']" />
+        </rect>
+        <figurefirst:group
+           figurefirst:name="right" />
+      </g>
+      <figurefirst:group
+         figurefirst:name="iii3_off" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="437.01572"
+       y="30.702879"
+       id="text4761-0-6-8-4-2-9-9-1-9-9-0-3"
+       sodipodi:linespacing="125%"
+       transform="scale(1.0000215,0.99997851)"><tspan
+         sodipodi:role="line"
+         x="437.01572"
+         y="30.702879"
+         id="tspan5172-7-7-0-3-9-1-4-80">iii3 trigger</tspan></text>
+  </g>
+</svg>
