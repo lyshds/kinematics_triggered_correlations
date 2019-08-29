@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg5222"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="activity_heatmap_layout.svg">
+  <defs
+     id="defs5224" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="170.83611"
+     inkscape:cy="634.28571"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1176"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5227">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5888"
+       transform="matrix(0.4465897,0,0,0.45749945,325.18277,63.178761)">
+      <rect
+         y="-45.81456"
+         x="-305.79465"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_b1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="69.19281"
+         x="-181.50893"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_i1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="69.19281"
+         x="-52.359863"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_i2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="184.2002"
+         x="-52.035645"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_iii3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-179.5636"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="-45.81456"
+         x="-178.59093"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-1"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_b2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="-45.81456"
+         x="-51.387207"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-4"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_b3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="184.2002"
+         x="-180.53625"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-6"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_iii1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-309.34772"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-9"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-51.711426"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2-4"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg4" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-437.97269"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-5-2"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="-45.81456"
+         x="-455.41986"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-3"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_b1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="69.19281"
+         x="-331.13422"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-8"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_i1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="69.19281"
+         x="-201.98512"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-5"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_i2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="184.2002"
+         x="-201.66089"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-2"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_iii3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-329.18884"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2-2"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="-45.81456"
+         x="-328.21613"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-1-2"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_b2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="-45.81456"
+         x="-201.01244"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-4-7"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_b3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="184.2002"
+         x="-330.16153"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-6-0"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_iii1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-458.97305"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-9-3"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-201.33665"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2-4-4"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg4" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-587.59796"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-5-2-6"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5912"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion5914"><rect
+           id="rect5916"
+           width="170"
+           height="120"
+           x="-418.57144"
+           y="-19.066368" /></flowRegion><flowPara
+         id="flowPara5918">basalares</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5930"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="matrix(0.67368537,0,0,0.67151711,420.98732,61.472161)"><flowRegion
+         id="flowRegion5932"><rect
+           id="rect5934"
+           width="407.14285"
+           height="252.85715"
+           x="-488.57144"
+           y="-0.4949387"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;writing-mode:lr;text-anchor:start;" /></flowRegion><flowPara
+         id="flowPara5936">basalares</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5930-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="matrix(0.67368537,0,0,0.67151711,420.91357,112.28421)"><flowRegion
+         id="flowRegion5932-9"><rect
+           id="rect5934-2"
+           width="407.14285"
+           height="252.85715"
+           x="-488.57144"
+           y="-0.4949387"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;writing-mode:lr;text-anchor:start;" /></flowRegion><flowPara
+         id="flowPara5936-7">first axillary</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5930-4-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="matrix(0.67368537,0,0,0.67151711,421.00789,164.50643)"><flowRegion
+         id="flowRegion5932-9-4"><rect
+           id="rect5934-2-1"
+           width="407.14285"
+           height="252.85715"
+           x="-488.57144"
+           y="-0.4949387"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;writing-mode:lr;text-anchor:start;" /></flowRegion><flowPara
+         id="flowPara5936-7-1">third axillary</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5930-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       transform="matrix(0.67368537,0,0,0.67151711,420.97559,216.72871)"><flowRegion
+         id="flowRegion5932-0"><rect
+           id="rect5934-8"
+           width="407.14285"
+           height="252.85715"
+           x="-488.57144"
+           y="-0.4949387"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.30150436px;line-height:125%;font-family:'Accanthis ADF Std';-inkscape-font-specification:'Accanthis ADF Std, Normal';text-align:start;writing-mode:lr;text-anchor:start;" /></flowRegion><flowPara
+         id="flowPara5936-9">hgs</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6010"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Amiri;-inkscape-font-specification:'Amiri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.67368537,0,0,0.67151711,449.66707,114.04236)"><flowRegion
+         id="flowRegion6012"><rect
+           id="rect6014"
+           width="335.71429"
+           height="148.57143"
+           x="-435.71429"
+           y="-137.6378"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Amiri;-inkscape-font-specification:'Amiri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara6016">left muscles</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot6010-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Amiri;-inkscape-font-specification:'Amiri, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.67368537,0,0,0.67151711,623.57098,117.9628)"><flowRegion
+         id="flowRegion6012-6"><rect
+           id="rect6014-4"
+           width="335.71429"
+           height="148.57143"
+           x="-435.71429"
+           y="-137.6378"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:125%;font-family:Amiri;-inkscape-font-specification:'Amiri, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara6016-0">right muscles</flowPara></flowRoot>    <g
+       id="g5888-5"
+       transform="matrix(0.4465897,0,0,0.45749945,315.16087,323.02287)">
+      <rect
+         y="-45.81456"
+         x="-305.79465"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-2"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_b1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="69.19281"
+         x="-181.50893"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-13"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_i1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="69.19281"
+         x="-52.359863"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-0"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_i2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="184.2002"
+         x="-52.035645"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-99"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_iii3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-179.5636"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2-1"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="-45.81456"
+         x="-178.59093"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-1-3"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_b2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="-45.81456"
+         x="-51.387207"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-4-4"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_b3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="184.2002"
+         x="-180.53625"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-6-5"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_iii1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-309.34772"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-9-8"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-51.711426"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2-4-5"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg4" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         y="299.20758"
+         x="-437.97269"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-5-2-7"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="left_hg1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="-45.81456"
+         x="-455.41986"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-3-3"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_b1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="69.19281"
+         x="-331.13422"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-8-3"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_i1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="69.19281"
+         x="-201.98512"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-5-8"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_i2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="184.2002"
+         x="-201.66089"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-2-9"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_iii3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-329.18884"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2-2-5"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="-45.81456"
+         x="-328.21613"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-1-2-5"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_b2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="-45.81456"
+         x="-201.01244"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-4-7-3"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_b3" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="184.2002"
+         x="-330.16153"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-6-0-8"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_iii1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-458.97305"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-9-3-6"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg2" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-201.33665"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-28-2-4-4-0"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg4" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+      <rect
+         transform="scale(-1,1)"
+         y="299.20758"
+         x="-587.59796"
+         height="112.18141"
+         width="125.19592"
+         id="rect5910-6-1-5-2-6-3"
+         style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+        <figurefirst:axis
+           figurefirst:name="right_hg1" />
+        <figurefirst:spinespec
+           figurefirst:spinelist="left, bottom" />
+      </rect>
+    </g>
+    <rect
+       y="595.27216"
+       x="73.472969"
+       height="378.46579"
+       width="581.62549"
+       id="rect5910-6-1-9-8-2"
+       style="display:inline;opacity:0.64800002;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:1;stroke-dasharray:3.00000001, 3.00000001;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="heat_map" />
+      <figurefirst:spinespec
+         figurefirst:spinelist="left, bottom" />
+    </rect>
+  </g>
+</svg>
