@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8in"
+   height="5.5in"
+   viewBox="0 0 720.00001 495.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="bias_movie_layout.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.87546061"
+     inkscape:cx="205.2149"
+     inkscape:cy="253.24525"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="959"
+     inkscape:window-x="-63"
+     inkscape:window-y="272"
+     inkscape:window-maximized="0"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-557.36215)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="-402.38293"
+       x="754.28766"
+       height="310.7829"
+       width="286.41702"
+       id="rect4136"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:2.12657237;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)">
+      <figurefirst:axis
+         figurefirst:name="fly"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       y="-656.70416"
+       x="753.97388"
+       height="235.78973"
+       width="287.04416"
+       id="rect4140"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.49917078;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)">
+      <figurefirst:axis
+         figurefirst:name="arena"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       y="648.50543"
+       x="91.055153"
+       height="58.938519"
+       width="259.71576"
+       id="rect4135"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="arena_position"
+         figurefirst:spinespec="left,bottom" />
+    </rect>
+    <rect
+       y="577.08032"
+       x="91.055153"
+       height="58.938519"
+       width="259.71576"
+       id="rect4135-0"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="lmr"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="576.9538"
+       x="91.143288"
+       height="133.15988"
+       width="259.5397"
+       id="rect4137"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.1862998;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="axvline"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       style="opacity:1;fill:#87ceec;fill-opacity:0.26666667;stroke:#ececec;stroke-width:2.57093763;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168"
+       width="136.3644"
+       height="160.99725"
+       x="368.64554"
+       y="576.50708">
+      <figurefirst:axis
+         figurefirst:name="cam_l"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       style="opacity:1;fill:#87ceec;fill-opacity:0.26666667;stroke:#ececec;stroke-width:2.57093763;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168-2"
+       width="136.3644"
+       height="160.99725"
+       x="520.93951"
+       y="576.50708"
+       figurefirst:spinespec="">
+      <figurefirst:axis
+         figurefirst:name="cam_r"
+         figurefirst:spinespec="" />
+    </rect>
+  </g>
+</svg>
