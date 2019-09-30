@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8in"
+   height="5.5in"
+   viewBox="0 0 720.00001 495.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="paper_figure_1.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.87546061"
+     inkscape:cx="514.43701"
+     inkscape:cy="125.23152"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1680"
+     inkscape:window-height="959"
+     inkscape:window-x="179"
+     inkscape:window-y="161"
+     inkscape:window-maximized="0"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-557.36215)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <rect
+       y="-1066.0588"
+       x="574.95343"
+       height="283.36874"
+       width="277.27896"
+       id="rect4136"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:2.12657237;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)">
+      <figurefirst:axis
+         figurefirst:name="fly"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       y="963.01361"
+       x="12.943789"
+       height="26.592661"
+       width="328.14954"
+       id="rect4135"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="averaged_activity"
+         figurefirst:spinespec="left,bottom" />
+    </rect>
+    <rect
+       y="599.72589"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="b1_l"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="864.81055"
+       x="761.677"
+       height="158.14745"
+       width="284.55078"
+       id="rect4137"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.1862998;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="axvline"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       style="opacity:1;fill:#87ceec;fill-opacity:0.26666667;stroke:#ececec;stroke-width:2.5709374;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168-2"
+       width="159.2095"
+       height="140.43669"
+       x="13.196253"
+       y="808.9751"
+       figurefirst:spinespec="">
+      <figurefirst:axis
+         figurefirst:name="l_wing"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       y="628.79224"
+       x="15.286251"
+       height="171.85452"
+       width="325.672"
+       id="rect4137-7"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.1862998;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="experimental_setup"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       style="opacity:1;fill:#87ceec;fill-opacity:0.26666667;stroke:#ececec;stroke-width:2.5709374;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168-2-2"
+       width="159.2095"
+       height="140.43669"
+       x="179.10568"
+       y="808.81812"
+       figurefirst:spinespec="">
+      <figurefirst:axis
+         figurefirst:name="r_wing"
+         figurefirst:spinespec="" />
+    </rect>
+    <rect
+       y="635.53925"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-6"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="b2_l"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="671.50171"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-7"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="b3_l"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="721.21442"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-01"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="i1_l"
+         figurefirst:spinespec="i1_l" />
+    </rect>
+    <rect
+       y="758.23456"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-013"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="i2_l"
+         figurefirst:spinespec="i2_l" />
+    </rect>
+    <rect
+       y="806.36658"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-77"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="iii1_l"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="843.38666"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-2"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="iii3_l"
+         figurefirst:spinespec="iii3_l" />
+    </rect>
+    <rect
+       y="887.35065"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-64"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg1_l"
+         figurefirst:spinespec="hg_1" />
+    </rect>
+    <rect
+       y="923.164"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-6-5"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg2_l"
+         figurefirst:spinespec="hg2_l" />
+    </rect>
+    <rect
+       y="959.12653"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-7-2"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg3_l"
+         figurefirst:spinespec="hg3_l" />
+    </rect>
+    <rect
+       y="997.29437"
+       x="394.76126"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-0-0"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg4_l"
+         figurefirst:spinespec="hg4_l" />
+    </rect>
+    <rect
+       y="1002.5136"
+       x="13.828421"
+       height="26.592661"
+       width="328.14954"
+       id="rect4135-2"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
+      <figurefirst:axis
+         figurefirst:name="kinematics"
+         figurefirst:spinespec="left,bottom" />
+    </rect>
+    <rect
+       y="599.93439"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-9"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="b1_r"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="635.74774"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-6-0"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="b2_r"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="671.71021"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-7-9"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="b3_r"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="721.42291"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-01-9"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="i1_r"
+         figurefirst:spinespec="i1_l" />
+    </rect>
+    <rect
+       y="758.44305"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-013-4"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="i2_r"
+         figurefirst:spinespec="i2_l" />
+    </rect>
+    <rect
+       y="806.57507"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-77-5"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="iii1_r"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="843.59509"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-2-1"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="iii3_r"
+         figurefirst:spinespec="iii3_l" />
+    </rect>
+    <rect
+       y="887.55908"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-64-0"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg1_r"
+         figurefirst:spinespec="hg_1" />
+    </rect>
+    <rect
+       y="923.37244"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-6-5-3"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg2_r"
+         figurefirst:spinespec="hg2_l" />
+    </rect>
+    <rect
+       y="959.33496"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-7-2-7"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg3_r"
+         figurefirst:spinespec="hg3_l" />
+    </rect>
+    <rect
+       y="997.50281"
+       x="550.7948"
+       height="30.970848"
+       width="145.29639"
+       id="rect4135-0-0-0-8"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="hg4_r"
+         figurefirst:spinespec="hg4_l" />
+    </rect>
+  </g>
+</svg>
