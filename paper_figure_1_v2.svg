@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87546061"
-     inkscape:cx="378.36836"
-     inkscape:cy="218.13545"
+     inkscape:cx="533.80894"
+     inkscape:cy="423.27617"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1206,7 +1206,7 @@
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
     <rect
-       y="905.74548"
+       y="927.74548"
        x="24.907158"
        height="23.285259"
        width="289.40295"
@@ -1218,7 +1218,7 @@
     </rect>
     <rect
        y="559.72589"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0"
@@ -1234,7 +1234,7 @@
        width="140.41068"
        height="122.97019"
        x="21.703049"
-       y="747.42578"
+       y="771.42578"
        figurefirst:spinespec="">
       <figurefirst:axis
          figurefirst:name="l_wing"
@@ -1246,7 +1246,7 @@
        width="140.41068"
        height="122.97019"
        x="168.02255"
-       y="748.43066"
+       y="772.43066"
        figurefirst:spinespec="">
       <figurefirst:axis
          figurefirst:name="r_wing"
@@ -1254,7 +1254,7 @@
     </rect>
     <rect
        y="595.53925"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-6"
@@ -1266,7 +1266,7 @@
     </rect>
     <rect
        y="631.50171"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-7"
@@ -1278,7 +1278,7 @@
     </rect>
     <rect
        y="681.21442"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-01"
@@ -1286,11 +1286,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="i1_l"
-         figurefirst:spinespec="i1_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="718.23456"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-013"
@@ -1298,11 +1298,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="i2_l"
-         figurefirst:spinespec="i2_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="766.36658"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-77"
@@ -1314,7 +1314,7 @@
     </rect>
     <rect
        y="803.38666"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-2"
@@ -1322,11 +1322,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="iii3_l"
-         figurefirst:spinespec="iii3_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="847.35065"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-64"
@@ -1334,11 +1334,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg1_l"
-         figurefirst:spinespec="hg_1" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="883.164"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-6-5"
@@ -1346,11 +1346,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg2_l"
-         figurefirst:spinespec="hg2_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="919.12653"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-7-2"
@@ -1358,11 +1358,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg3_l"
-         figurefirst:spinespec="hg3_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="957.29437"
-       x="480.76126"
+       x="496.76126"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-0-0"
@@ -1370,11 +1370,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg4_l"
-         figurefirst:spinespec="hg4_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="559.93439"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-9"
@@ -1386,7 +1386,7 @@
     </rect>
     <rect
        y="595.74774"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-6-0"
@@ -1398,7 +1398,7 @@
     </rect>
     <rect
        y="631.71021"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-7-9"
@@ -1410,7 +1410,7 @@
     </rect>
     <rect
        y="681.42291"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-01-9"
@@ -1418,11 +1418,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="i1_r"
-         figurefirst:spinespec="i1_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="718.44305"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-013-4"
@@ -1430,11 +1430,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="i2_r"
-         figurefirst:spinespec="i2_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="766.57507"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-77-5"
@@ -1446,7 +1446,7 @@
     </rect>
     <rect
        y="803.59509"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-2-1"
@@ -1454,11 +1454,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="iii3_r"
-         figurefirst:spinespec="iii3_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="847.55908"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-64-0"
@@ -1466,11 +1466,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg1_r"
-         figurefirst:spinespec="hg_1" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="883.37244"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-6-5-3"
@@ -1478,11 +1478,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg2_r"
-         figurefirst:spinespec="hg2_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="919.33496"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-7-2-7"
@@ -1490,11 +1490,11 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg3_r"
-         figurefirst:spinespec="hg3_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
        y="957.50281"
-       x="680.7948"
+       x="714.7948"
        height="30.970848"
        width="145.29639"
        id="rect4135-0-0-0-8"
@@ -1502,7 +1502,7 @@
        figurefirst:spinespec="left, bottom">
       <figurefirst:axis
          figurefirst:name="hg4_r"
-         figurefirst:spinespec="hg4_l" />
+         figurefirst:spinespec="left" />
     </rect>
     <g
        transform="matrix(1.25,0,0,-1.25,-129.88945,1529.5241)"
@@ -3641,7 +3641,7 @@
              transform="translate(85.8042,376.2314)">
             <path
                d="m 0,0 c 0,0 -0.677,-4.549 -1.681,-4.943 -1.007,-0.394 -3.661,1.875 -4.042,2.956 l 4.326,3.642 C -0.278,2.742 0.467,1.783 0,0"
-               style="fill:#b1c26e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#6e91c2;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path2632"
                inkscape:connector-curvature="0" />
           </g>
@@ -3677,7 +3677,7 @@
              transform="translate(80.603,373.5234)">
             <path
                d="M 0,0 C 0.56,-0.126 5.42,4.607 4.67,4.817 L 0,2.367 C -1.587,1.593 -0.56,0.127 0,0"
-               style="fill:#b1c26e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#6e91c2;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path2648"
                inkscape:connector-curvature="0" />
           </g>
@@ -3685,10 +3685,11 @@
              id="g2650"
              transform="translate(80.603,373.5234)">
             <path
-               d="M 0,0 C 0.56,-0.126 5.42,4.607 4.67,4.817 L 0,2.367 C -1.587,1.593 -0.56,0.127 0,0 Z"
+               d="M 0,0 C 0.16931672,-0.03809626 0.73172352,0.36799927 1.4133096,0.95896967 2.986009,2.3225813 5.1932365,4.6704938 4.67,4.817 L 0.3652794,2.5586348 0,2.367 C -0.26565162,2.2374383 -0.45805846,2.0884867 -0.59167154,1.9296712 -0.7212588,1.7756409 -0.79554188,1.6123323 -0.82770452,1.4484359 -0.96048839,0.77178759 -0.37534501,0.08512289 0,0 Z"
                style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                id="path2652"
-               inkscape:connector-curvature="0" />
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="cscccssc" />
           </g>
           <g
              id="g2654"
@@ -4468,7 +4469,7 @@
              transform="translate(84.2295,424.1401)">
             <path
                d="m 0,0 3.375,16.918 c -0.043,1.89 -1.217,2.007 -1.768,0.881 L -3.37,2.883 c 0.122,-0.955 2.713,-3.127 3.395,-2.844"
-               style="fill:#b1c26e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:#6e91c2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                id="path3004"
                inkscape:connector-curvature="0" />
           </g>
@@ -4782,7 +4783,7 @@
              transform="translate(75.3467,503.812)">
             <path
                d="M 0,0 C -2.693,2.049 -8.074,11.113 -8.074,11.113 L 2.119,6.243 4.675,2.708"
-               style="fill:#b1c26e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:#6e91c2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                id="path1312"
                inkscape:connector-curvature="0" />
           </g>
@@ -5106,7 +5107,7 @@
              transform="translate(76.7358,503.4653)">
             <path
                d="M 0,0 C 4.894,0.76 10.338,1.354 11.39,2.518 13.397,4.744 8.303,3.906 3.963,3.054"
-               style="fill:#b1c26e;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+               style="fill:#6e91c2;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                id="path1456"
                inkscape:connector-curvature="0" />
           </g>
@@ -5736,7 +5737,7 @@
              transform="translate(84.8486,300.6865)">
             <path
                d="m 0,0 c -0.371,-1.203 1.329,-3.38 1.329,-3.38 0,0 2.785,5.396 3.112,6.194 C 4.772,3.613 4.65,4.271 4.65,4.271 L 3.37,3.613 C 3.37,3.613 0.365,1.208 0,0"
-               style="fill:#b1c26e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#6e91c2;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="path2412"
                inkscape:connector-curvature="0" />
           </g>
@@ -5744,10 +5745,11 @@
              id="g2414"
              transform="translate(84.8486,300.6865)">
             <path
-               d="m 0,0 c -0.371,-1.203 1.329,-3.38 1.329,-3.38 0,0 2.785,5.396 3.112,6.194 C 4.772,3.613 4.65,4.271 4.65,4.271 L 3.37,3.613 C 3.37,3.613 0.365,1.208 0,0 Z"
+               d="M 0,0 C -0.14966025,-0.48528648 0.03769139,-1.1290711 0.31450989,-1.7245083 0.72391008,-2.605129 1.329,-3.38 1.329,-3.38 c 0,0 2.785,5.396 3.112,6.194 C 4.772,3.613 4.65,4.271 4.65,4.271 L 3.37,3.613 C 3.37,3.613 0.365,1.208 0,0 Z"
                style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100;stroke-dasharray:none;stroke-opacity:1"
                id="path2416"
-               inkscape:connector-curvature="0" />
+               inkscape:connector-curvature="0"
+               sodipodi:nodetypes="csccccc" />
           </g>
           <g
              id="g2418"
@@ -5771,7 +5773,7 @@
       </g>
       <g
          id="g8603"
-         transform="translate(556.7414,338.58315)">
+         transform="translate(551.9414,338.58315)">
         <g
            id="g1114"
            transform="translate(-202.30531,-88.931644)">
@@ -5863,7 +5865,7 @@
     </g>
     <rect
        y="509.40955"
-       x="478.81479"
+       x="494.81479"
        height="30.970848"
        width="146.43864"
        id="rect4135-0-3"
@@ -5875,7 +5877,7 @@
     </rect>
     <rect
        y="509.12506"
-       x="681.01721"
+       x="715.01721"
        height="30.970848"
        width="146.43864"
        id="rect4135-0-3-1"
@@ -5897,5 +5899,75 @@
          figurefirst:name="fly"
          figurefirst:spinespec="" />
     </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-606.37201"
+       y="341.30539"
+       id="text116371"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan116373"
+         x="-606.37201"
+         y="341.30539">basalares</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-719.02484"
+       y="342.24625"
+       id="text116371-2"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan116373-1"
+         x="-719.02484"
+         y="342.24625">1st axillary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-800.67438"
+       y="341.91995"
+       id="text116371-2-7"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan116373-1-4"
+         x="-800.67438"
+         y="341.91995">3rd axillary</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-905.7619"
+       y="345.34674"
+       id="text116371-2-5"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan116373-1-5"
+         x="-905.7619"
+         y="345.34674">hgs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="565.70953"
+       y="498.36807"
+       id="text116419"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan116421"
+         x="565.70953"
+         y="498.36807">left wing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="788.45367"
+       y="500.36807"
+       id="text116423"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan116425"
+         x="788.45367"
+         y="500.36807">right wing</tspan></text>
   </g>
 </svg>
