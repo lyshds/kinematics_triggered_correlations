@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.87546061"
-     inkscape:cx="217.07737"
-     inkscape:cy="129.62665"
+     inkscape:cx="324.25545"
+     inkscape:cy="175.31688"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1196,7 +1196,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1229,7 +1229,7 @@
          figurefirst:spinespec="left,bottom" />
     </rect>
     <rect
-       y="603.72589"
+       y="617.72589"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1256,8 +1256,8 @@
        id="rect4168-2"
        width="140.41068"
        height="122.97019"
-       x="12.560791"
-       y="788.60596"
+       x="13.703047"
+       y="859.42578"
        figurefirst:spinespec="">
       <figurefirst:axis
          figurefirst:name="l_wing"
@@ -1268,15 +1268,15 @@
        id="rect4168-2-2"
        width="140.41068"
        height="122.97019"
-       x="158.88029"
-       y="788.46851"
+       x="160.02255"
+       y="860.43066"
        figurefirst:spinespec="">
       <figurefirst:axis
          figurefirst:name="r_wing"
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="639.53925"
+       y="653.53925"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1288,7 +1288,7 @@
          figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="675.50171"
+       y="689.50171"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1300,7 +1300,7 @@
          figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="725.21442"
+       y="739.21442"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1312,7 +1312,7 @@
          figurefirst:spinespec="i1_l" />
     </rect>
     <rect
-       y="762.23456"
+       y="776.23456"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1324,7 +1324,7 @@
          figurefirst:spinespec="i2_l" />
     </rect>
     <rect
-       y="810.36658"
+       y="824.36658"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1336,7 +1336,7 @@
          figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="847.38666"
+       y="861.38666"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1348,7 +1348,7 @@
          figurefirst:spinespec="iii3_l" />
     </rect>
     <rect
-       y="891.35065"
+       y="905.35065"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1360,7 +1360,7 @@
          figurefirst:spinespec="hg_1" />
     </rect>
     <rect
-       y="927.164"
+       y="941.164"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1372,7 +1372,7 @@
          figurefirst:spinespec="hg2_l" />
     </rect>
     <rect
-       y="963.12653"
+       y="977.12653"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1384,7 +1384,7 @@
          figurefirst:spinespec="hg3_l" />
     </rect>
     <rect
-       y="1001.2944"
+       y="1015.2944"
        x="406.76126"
        height="30.970848"
        width="145.29639"
@@ -1396,18 +1396,7 @@
          figurefirst:spinespec="hg4_l" />
     </rect>
     <rect
-       y="932.07355"
-       x="126.77066"
-       height="32.423306"
-       width="171.7506"
-       id="rect4135-2"
-       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.0100317;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
-      <figurefirst:axis
-         figurefirst:name="kinematics"
-         figurefirst:spinespec="left,bottom" />
-    </rect>
-    <rect
-       y="603.93439"
+       y="617.93439"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1419,7 +1408,7 @@
          figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="639.74774"
+       y="653.74774"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1431,7 +1420,7 @@
          figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="675.71021"
+       y="689.71021"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1443,7 +1432,7 @@
          figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="725.42291"
+       y="739.42291"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1455,7 +1444,7 @@
          figurefirst:spinespec="i1_l" />
     </rect>
     <rect
-       y="762.44305"
+       y="776.44305"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1467,7 +1456,7 @@
          figurefirst:spinespec="i2_l" />
     </rect>
     <rect
-       y="810.57507"
+       y="824.57507"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1479,7 +1468,7 @@
          figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="847.59509"
+       y="861.59509"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1491,7 +1480,7 @@
          figurefirst:spinespec="iii3_l" />
     </rect>
     <rect
-       y="891.55908"
+       y="905.55908"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1503,7 +1492,7 @@
          figurefirst:spinespec="hg_1" />
     </rect>
     <rect
-       y="927.37244"
+       y="941.37244"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1515,7 +1504,7 @@
          figurefirst:spinespec="hg2_l" />
     </rect>
     <rect
-       y="963.33496"
+       y="977.33496"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -1527,7 +1516,7 @@
          figurefirst:spinespec="hg3_l" />
     </rect>
     <rect
-       y="1001.5028"
+       y="1015.5028"
        x="562.7948"
        height="30.970848"
        width="145.29639"
@@ -3223,7 +3212,7 @@
         </g>
       </g>
       <g
-         transform="translate(326.057,232.83198)"
+         transform="translate(326.057,221.63198)"
          id="g2426">
         <g
            id="g2428"
@@ -3834,7 +3823,7 @@
         </g>
       </g>
       <g
-         transform="translate(326.508,242.56599)"
+         transform="translate(326.508,231.36599)"
          id="g2702">
         <g
            id="g2704"
@@ -4508,7 +4497,7 @@
         </g>
       </g>
       <g
-         transform="translate(327.4075,253.44188)"
+         transform="translate(327.4075,242.24188)"
          id="g1170">
         <g
            id="g1172"
@@ -5146,7 +5135,7 @@
         </g>
       </g>
       <g
-         transform="translate(324.14,211.17813)"
+         transform="translate(324.14,199.97813)"
          id="g2130">
         <g
            id="g2132"
@@ -5803,7 +5792,7 @@
       </g>
       <g
          id="g8603"
-         transform="translate(316.17642,45.255218)">
+         transform="translate(548.7414,327.38315)">
         <g
            id="g1114"
            transform="translate(-202.30531,-88.931644)">
@@ -5893,5 +5882,41 @@
         </g>
       </g>
     </g>
+    <rect
+       y="581.40955"
+       x="404.81479"
+       height="30.970848"
+       width="146.43864"
+       id="rect4135-0-3"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.01003182;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="l_wsa"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       y="579.12506"
+       x="563.01721"
+       height="30.970848"
+       width="146.43864"
+       id="rect4135-0-3-1"
+       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.01003182;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       figurefirst:spinespec="left, bottom">
+      <figurefirst:axis
+         figurefirst:name="r_wsa"
+         figurefirst:spinespec="left" />
+    </rect>
+    <rect
+       style="opacity:1;fill:#87ceec;fill-opacity:0.26666667;stroke:#ececec;stroke-width:2.5709374;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4168-2-0"
+       width="152.97549"
+       height="63.572887"
+       x="77.145668"
+       y="786.41327"
+       figurefirst:spinespec="">
+      <figurefirst:axis
+         figurefirst:name="fly"
+         figurefirst:spinespec="" />
+    </rect>
   </g>
 </svg>
