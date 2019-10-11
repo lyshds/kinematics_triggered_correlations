@@ -10,9 +10,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="8.5in"
+   width="11.5in"
    height="14in"
-   viewBox="0 0 765.00001 1260"
+   viewBox="0 0 1035 1260"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.87546061"
-     inkscape:cx="375.15215"
-     inkscape:cy="414.71524"
+     inkscape:zoom="0.69250302"
+     inkscape:cx="443.27674"
+     inkscape:cy="576.60586"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1533,38 +1533,15 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <rect
-       y="-1066.0588"
-       x="574.95343"
-       height="283.36874"
-       width="277.27896"
-       id="rect4136"
-       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:2.12657237;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0,1,-1,0,0,0)">
-      <figurefirst:axis
-         figurefirst:name="fly"
-         figurefirst:spinespec="" />
-    </rect>
-    <rect
-       y="873.94861"
-       x="801.65594"
-       height="158.14745"
-       width="284.55078"
-       id="rect4137"
-       style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:1.1862998;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1">
-      <figurefirst:axis
-         figurefirst:name="axvline"
-         figurefirst:spinespec="" />
-    </rect>
     <g
-       transform="matrix(1.0808876,0,0,-1.2201933,-9.2592026,955.3971)"
+       transform="matrix(1.0808876,0,0,-1.2201933,38.740797,955.3971)"
        id="g12216">
       <g
          id="g12218"
          clip-path="url(#clipPath12220)">
         <g
            id="g38576"
-           transform="matrix(0.66284187,0,0,0.62070522,-4.207094,342.65291)">
+           transform="matrix(0.66284187,0,0,0.62070522,-7.9077564,336.09659)">
           <g
              transform="translate(82.4683,669.2051)"
              id="g12224">
@@ -2988,7 +2965,7 @@
         </g>
         <g
            id="g38898"
-           transform="matrix(0.66284187,0,0,0.62070344,-4.207094,216.01082)">
+           transform="matrix(0.66284187,0,0,0.62070344,-7.9077564,253.70972)">
           <g
              transform="translate(99.4434,478.2227)"
              id="g12880">
@@ -4412,7 +4389,7 @@
         </g>
         <g
            id="g39220"
-           transform="matrix(0.66557641,0,0,0.62066619,-8.6829196,104.61106)">
+           transform="matrix(0.66557641,0,0,0.62066619,-8.6829196,201.31698)">
           <g
              transform="translate(99.4434,287.2402)"
              id="g13536">
@@ -5836,7 +5813,7 @@
         </g>
         <g
            id="g39542"
-           transform="matrix(0.66284187,0,0,0.64775106,-4.207094,45.139919)">
+           transform="matrix(0.66284187,0,0,0.64775106,-13.45875,202.49198)">
           <g
              id="g47417">
             <g
@@ -7267,43 +7244,9 @@
         </g>
       </g>
     </g>
-    <text
-       y="597.49518"
-       x="-118.73038"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.078022px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text14848"
-       transform="scale(0.9411871,1.062488)">
-      <tspan
-         x="-118.73038 -105.12838 -97.201912 -87.362183 -83.953636 -79.950195 -71.026894 -63.82394 -58.728806 -50.673737 -42.924118 -36.557213"
-         y="597.49518"
-         sodipodi:role="line"
-         id="tspan14850">WSA Increase</tspan>
-      <tspan
-         x="-118.73038 -105.12838 -97.201912 -87.362183 -83.953636 -73.182968 -65.127869 -57.924911 -52.828171 -44.773102 -37.023483 -30.656599"
-         y="812.20105"
-         sodipodi:role="line"
-         id="tspan14852">WSA Decrease</tspan>
-      <tspan
-         x="-118.73038 -111.36665 -103.31156 -98.439919 -93.118095 -90.368767 -83.099884 -74.240906 -68.92067"
-         y="382.77316"
-         sodipodi:role="line"
-         id="tspan14854">Left Turn</tspan>
-    </text>
-    <text
-       y="-56.571018"
-       x="20.305214"
-       transform="scale(0.95205227,1.0503625)"
-       style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.26362991px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="text14856">
-      <tspan
-         x="20.305214 29.21767 33.02335 42.114727 51.075977 56.459251 59.240334 66.591507 75.552765 80.93602"
-         y="-56.571018"
-         sodipodi:role="line"
-         id="tspan14858">Right Turn</tspan>
-    </text>
     <rect
-       y="-247.17563"
-       x="-28.36307"
+       y="-349.17563"
+       x="-20.36307"
        height="127.87343"
        width="127.87343"
        id="rect4136-4"
@@ -7311,11 +7254,11 @@
        transform="matrix(0,1,-1,0,0,0)">
       <figurefirst:axis
          figurefirst:name="r_turn_lmr"
-         figurefirst:spinespec="" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="-246.03339"
-       x="268.68777"
+       y="-348.03339"
+       x="208.68777"
        height="127.87343"
        width="127.87343"
        id="rect4136-4-4"
@@ -7323,23 +7266,23 @@
        transform="matrix(0,1,-1,0,0,0)">
       <figurefirst:axis
          figurefirst:name="l_turn_lmr"
-         figurefirst:spinespec="" />
+         figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="-246.03339"
-       x="540.32458"
+       y="-348.03339"
+       x="416.32458"
        height="127.87343"
        width="127.87343"
        id="rect4136-4-2"
        style="opacity:1;fill:#8ad0ef;fill-opacity:0.26646734;stroke:#ececec;stroke-width:2.12657237;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        transform="matrix(0,1,-1,0,0,0)">
       <figurefirst:axis
-         figurefirst:name="wSA_inc_lpr"
-         figurefirst:spinespec="" />
+         figurefirst:name="WSA_inc_lpr"
+         figurefirst:spinespec="left" />
     </rect>
     <rect
-       y="-244.60663"
-       x="807.367"
+       y="-346.60663"
+       x="615.367"
        height="127.87343"
        width="127.87343"
        id="rect4136-4-9"
@@ -7347,46 +7290,46 @@
        transform="matrix(0,1,-1,0,0,0)">
       <figurefirst:axis
          figurefirst:name="WSA_dec_lpr"
-         figurefirst:spinespec="" />
+         figurefirst:spinespec="left, bottom" />
     </rect>
     <rect
        style="opacity:1;fill:#de8787;fill-opacity:0.44252876;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.66666667"
        id="rect42554"
        width="63.966328"
-       height="1034.8838"
-       x="150.1877"
-       y="-65.107506" />
+       height="766.29291"
+       x="252.1877"
+       y="-21.786396" />
     <ellipse
        style="opacity:1;fill:#8acfef;fill-opacity:0.26646734;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.66666667"
        id="path47739"
-       cx="573.41248"
-       cy="12.905113"
+       cx="661.41248"
+       cy="20.905113"
        rx="70.819862"
        ry="102.80302" />
     <ellipse
        style="opacity:1;fill:#8acfef;fill-opacity:0.26646734;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.66666667"
        id="path47739-6"
-       cx="575.6969"
-       cy="292.4733"
+       cx="663.6969"
+       cy="242.4733"
        rx="70.819862"
        ry="102.80302" />
     <ellipse
        style="opacity:1;fill:#8acfef;fill-opacity:0.26646734;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.66666667"
        id="path47739-9"
-       cx="574.55469"
-       cy="590.60205"
+       cx="662.55469"
+       cy="472.60205"
        rx="70.819862"
        ry="102.80302" />
     <ellipse
        style="opacity:1;fill:#8acfef;fill-opacity:0.26646734;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.66666667"
        id="path47739-67"
-       cx="573.41241"
-       cy="881.29987"
+       cx="661.41241"
+       cy="689.29987"
        rx="70.819862"
        ry="102.80302" />
     <rect
-       y="-755.57477"
-       x="-84.437325"
+       y="-843.57477"
+       x="-76.437325"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6"
@@ -7397,8 +7340,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-756.14587"
-       x="16.652332"
+       y="-844.14587"
+       x="24.652332"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6-4"
@@ -7409,8 +7352,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-754.14478"
-       x="205.97699"
+       y="-842.14478"
+       x="155.97699"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6-44"
@@ -7421,8 +7364,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-754.71588"
-       x="307.06668"
+       y="-842.71588"
+       x="257.06668"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6-4-6"
@@ -7433,8 +7376,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-754.14484"
-       x="496.11002"
+       y="-842.14484"
+       x="378.11002"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6-3"
@@ -7445,8 +7388,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-754.71594"
-       x="597.19965"
+       y="-842.71594"
+       x="479.19965"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6-4-9"
@@ -7457,8 +7400,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-754.14478"
-       x="790.79938"
+       y="-842.14478"
+       x="598.79938"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6-6"
@@ -7469,8 +7412,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-754.71588"
-       x="891.88904"
+       y="-842.71588"
+       x="699.88904"
        height="97.032524"
        width="92.463501"
        id="rect4136-4-6-4-2"
@@ -7481,8 +7424,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-474.57776"
-       x="-15.046322"
+       y="-562.57776"
+       x="6.9536781"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5"
@@ -7493,8 +7436,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-474.00659"
-       x="19.79248"
+       y="-562.00659"
+       x="41.79248"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5-4"
@@ -7505,8 +7448,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-473.1499"
-       x="285.65253"
+       y="-561.1499"
+       x="245.65253"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5-0"
@@ -7517,8 +7460,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-472.57874"
-       x="320.49133"
+       y="-560.57874"
+       x="280.49133"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5-4-6"
@@ -7529,8 +7472,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-472.00763"
-       x="558.65167"
+       y="-562.00763"
+       x="448.65167"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5-0-6"
@@ -7541,8 +7484,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-471.43646"
-       x="593.49048"
+       y="-561.43646"
+       x="483.49048"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5-4-6-1"
@@ -7553,8 +7496,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-478.86118"
-       x="844.21564"
+       y="-566.86121"
+       x="652.21564"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5-0-6-0"
@@ -7565,8 +7508,8 @@
          figurefirst:spinespec="" />
     </rect>
     <rect
-       y="-478.29001"
-       x="879.05444"
+       y="-566.29004"
+       x="687.05444"
        height="200.97781"
        width="31.923941"
        id="rect4136-4-6-5-4-6-1-7"
@@ -7576,5 +7519,104 @@
          figurefirst:name="rm_matrix_WSAd"
          figurefirst:spinespec="" />
     </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="85.544968"
+       y="193.81702"
+       id="text83891"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83893"
+         x="85.544968"
+         y="193.81702">left turn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="91.321114"
+       y="-38.7812"
+       id="text83895"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83897"
+         x="91.321114"
+         y="-38.7812">right turn</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="107.20554"
+       y="402.31433"
+       id="text83899"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83901"
+         x="107.20554"
+         y="402.31433">WSA increase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="108.64957"
+       y="601.25934"
+       id="text83903"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83905"
+         x="108.64957"
+         y="601.25934">WSA decrease</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="333.48627"
+       y="335.00052"
+       id="text83907"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83909"
+         x="333.48627"
+         y="335.00052">l-r</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot83911"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(0,-207.63785)"><flowRegion
+         id="flowRegion83913"><rect
+           id="rect83915"
+           width="66.425705"
+           height="85.198181"
+           x="-361.00925"
+           y="396.46585" /></flowRegion><flowPara
+         id="flowPara83917"></flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="331.71014"
+       y="540.60974"
+       id="text83919"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83921"
+         x="331.71014"
+         y="540.60974">l+r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="331.46732"
+       y="102.88287"
+       id="text83907-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83909-0"
+         x="331.46732"
+         y="102.88287">l-r</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="332.62891"
+       y="733.26813"
+       id="text83919-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan83921-3"
+         x="332.62891"
+         y="733.26813">l+r</tspan></text>
   </g>
 </svg>
